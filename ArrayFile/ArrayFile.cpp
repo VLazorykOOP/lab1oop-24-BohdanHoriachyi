@@ -9,6 +9,9 @@
 #include <time.h>
 
 using namespace std;
+/// <summary>
+/// 
+/// </summary>
 
 typedef double* pDouble;
 /*
